@@ -35,8 +35,10 @@ or build Example App.
 
 ## Requirements
 
-iOS 8 or later.
-Swift3.0 or later.
+| Target            | Version |
+|-------------------|---------|
+| iOS               |  ~> 8.0 |
+| Swift             |  ~> 3.0 |
 
 ## Installation
 
